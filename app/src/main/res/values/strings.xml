@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">search notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="type_note_here">type note here...</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">pick color</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_url">Add URL</string>
+    <string name="add_url1">Add Url</string>
+    <string name="add">Add</string>
+    <string name="cancel_dialog" />
+    <string name="cancel_dialog1">CANCEL</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_note">Are you sure you want to delete this note?</string>
+</resources>
